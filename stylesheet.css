@@ -1,6 +1,20 @@
-main{
-    background-color: antiquewhite;
-    font-family:arial;
-    font-size: large;
-    color: black;
+
+*{
+    background-color: aqua;
+}
+
+#main{
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-style: dashed;
+    border: 10px;
+}
+.detail{
+     color: red;
+     background-color: wheat;
+     text-align:left;
+     font-size: 25px;
+     border: 10px green groove;
+
 }
